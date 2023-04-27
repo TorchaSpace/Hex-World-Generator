@@ -560,3 +560,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 553.998974 seconds.
+  path: Assets/Material/HexMat.mat
+  artifactKey: Guid(c8084b5ddd1ad445d8ca13638b761a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/HexMat.mat using Guid(c8084b5ddd1ad445d8ca13638b761a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3444abc4f6a605130869f643a818d2') in 0.971850 seconds 
